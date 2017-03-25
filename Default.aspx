@@ -36,7 +36,7 @@
     </nav>
     <div class="container theme-showcase">
         <div class="jumbotron">
-            <h1>MSSQL Example</h1>
+            <h1>Oren MSSQL Example on oren-project-2 v1</h1>
             <p>This is MSSQL Example Application which demonstrate connectivity between ASP.NET 4.5 and MSSQL on OpenShift 3 Cloud.</p>
         </div>
         <div class="alert alert-danger alert-dismissible fade in" role="alert" id="dvAlertError" style="display: none;" runat="server">
